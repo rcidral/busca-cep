@@ -29,14 +29,14 @@ $ npm install
 $ npm run build
 
 # Iniciar o projeto
-$ npm run previews
+$ npm run preview
 ```
 
 ---
 
 ### 🔗 Link do projeto online
 
-[Busca CEP]()
+[Busca CEP](https://busca-cep-beta-kohl.vercel.app/)
 
 ---
 
